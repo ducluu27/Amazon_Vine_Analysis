@@ -7,6 +7,7 @@ The purpose of this project is to analyze Amazon reviews written by members of t
 ## Results
 
 - How many Vine reviews and non-Vine reviews were there?
+
 There were 334 Vine reviews and 61614 non-Vine reviews. 
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
