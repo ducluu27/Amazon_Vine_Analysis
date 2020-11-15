@@ -7,4 +7,4 @@ The purpose of this project is to analyze Amazone reviews written by members of 
 ## Results
 
 - How many Vine reviews and non-Vine reviews were there?
- - 
+  - 
