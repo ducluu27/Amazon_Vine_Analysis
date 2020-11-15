@@ -15,22 +15,23 @@ Based on the results of the analysis, there were 139 Vine reviews that were 5 st
 
   Reviewed stars total:
 
-![image]()
+![image](https://github.com/ducluu27/Amazon_Vine_Analysis/blob/main/Challenge/Resources/Vine%20Count.png)
 
 Non-Reviewed star total:
 
-![image]()
+![image](https://github.com/ducluu27/Amazon_Vine_Analysis/blob/main/Challenge/Resources/Non-Vine%20Count.png)
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-  The percentage of Vine reviews that were 5 stars was 41.62%. For the non-Vine reviews the percentage that were 5 stars was 53.02%.
+
+  - The percentage of Vine reviews that were 5 stars was 41.62%. For the non-Vine reviews the percentage that were 5 stars was 53.02%.
 
 Percentage of Vine Star:
 
-![image]()
+![image](https://github.com/ducluu27/Amazon_Vine_Analysis/blob/main/Challenge/Resources/Vine%20Star%20Percentage.png)
 
 Percentage of Non-Vine Star:
 
-![image]()
+![image](https://github.com/ducluu27/Amazon_Vine_Analysis/blob/main/Challenge/Resources/Non-Vine%20Percentage.png)
 
 ## Summary
 Based the results of the analysis there is some positivity bias for reviews in the Vine program. The reason being is that even non-Vine members given a lot of 5 star reviews. The Vine members 5 star percentage was also the highest amoung the star ratings at 41.62%. It is very similar when compared to the non-Vine mnembers which had a high 5 star ratings at 53.02%. One additional analysis that we could perform with the data set is figure out which products had 2 stars or less to figure out why they received such low ratings. 
