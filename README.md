@@ -24,9 +24,11 @@ Non-Reviewed star total:
 The percentage of Vine reviews that were 5 stars was 41.62%. For the non-Vine reviews the percentage that were 5 stars was 53.02%.
 
 Percentage of Vine Star:
+
 ![image]()
 
 Percentage of Non-Vine Star:
+
 ![image]()
 
 ## Summary
